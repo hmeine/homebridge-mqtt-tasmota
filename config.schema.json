@@ -125,7 +125,7 @@
         "type": "string",
         "required": true,
         "description": "Tasmota device full topic, as shown in its MQTT settings",
-        "default": "%topic%/%prefix%/"
+        "default": "%prefix%/%topic%/"
       },
       "debug": {
         "title": "Debug",
